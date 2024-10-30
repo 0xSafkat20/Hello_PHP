@@ -9,3 +9,5 @@ PHP code is written between the `<?php` and `?>` tags.
 <?php
   // PHP code here
 ?>
+
+## 2. Echo and Print
