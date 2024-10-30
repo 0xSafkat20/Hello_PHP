@@ -1,4 +1,4 @@
-## Echo and Print
+## 2.Echo and Print
 
 In PHP, the `echo` and `print` statements are used to output text to the screen. These are fundamental commands that help display text, variables, and HTML code.
 
